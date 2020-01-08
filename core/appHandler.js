@@ -276,3 +276,4 @@ module.exports.userSearch = function (req, res) {
         })
     })
 }
+let PASSWORD = '12345'
